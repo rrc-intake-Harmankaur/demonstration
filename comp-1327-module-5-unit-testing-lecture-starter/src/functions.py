@@ -1,6 +1,6 @@
 """
 Description: Module 05 demonstration: Functions with Unit Testing
-Author: ACE Faculty
+Author: Harman Kaur
 Date: {current date}
 Usage: To execute the unit tests: 
         From the unit_testing directory in the Terminal:
